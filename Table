@@ -6,11 +6,15 @@
     <body>
         <h1>Table creating</h1>
         <table border ="1">
-<tr><td> Name Surname:</td><td> Ekrem Teke</td></tr>
-<tr><td>Birth City</td> <td> Ankara </td></tr>
-<tr><td>Birth moth</td> <td> January </td></tr>
-<tr><td>Birth year</td> <td> 1989 </td></tr>
+            <caption>Who am I?</caption>
+            <thead>
+<tr><th> Name Surname:</th><td> Ekrem Teke</td></tr>
 
+<tr><th>Birth City</th> <td> Ankara </td></tr>
+<tr><th>Birth moth</th> <td> January </td></tr>
+<tr><th>Birth year</th> <td> 1989 </td></tr>
+</thead>
         </table>
     </body>
 </html>
+
